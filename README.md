@@ -9,7 +9,7 @@
 
 <img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Point_Down.gif" width="30px">
 <br>
-  <a href="https://in.linkedin.com/in/JulioCabrera">
+  <a href="https://in.linkedin.com/in/julio-cabrera-a2b80a198">
     <img align="left" alt="Julio Cabrera | Linkedin" width="24px" src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/arielcabrera_11">
