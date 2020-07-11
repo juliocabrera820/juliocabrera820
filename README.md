@@ -1,4 +1,4 @@
-### <img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Hi.gif" width="35px"> Hello world!&nbsp;<img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Earth.gif" width="35px">
+### <img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Hi.gif" width="40px"> Hello world!&nbsp;<img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Earth.gif" width="35px">
 
 <img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Developer.gif" width="65px">
 
