@@ -2,8 +2,8 @@
 
 <img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Developer.gif" width="65px">
 
-- 🔭 I’m currently working on React :six_pointed_star: and Ruby On Rails:gem:
-- 🌱 I’m currently learning Vue,GraphQL,Next,Nuxt and Typescript
+- 🔭 I’m currently working on React :six_pointed_star: ,Vue, Node and Ruby On Rails:gem: 
+- 🌱 I’m currently learning GraphQL,Next,Nuxt and Typescript
 - 💬 Ask me about Java,Ruby and JS
 - 📫 How to reach me
 
