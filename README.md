@@ -3,7 +3,7 @@
 <img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Developer.gif" width="65px">
 
 - 🔭 I’m currently working on React :six_pointed_star: Node and Ruby On Rails:gem: 
-- 🌱 I’m currently learning Next
+- 🌱 I’m currently learning Next, Sinatra :gem:
 - 💬 Ask me about Ruby and JS
 - 📫 How to reach me
 
