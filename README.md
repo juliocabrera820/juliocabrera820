@@ -2,7 +2,7 @@
 
 <img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Developer.gif" width="65px">
 
-- 🔭 I’m currently working on Ruby On Rails:gem: 
+- 🔭 I’m currently working on Ruby On Rails:gem: and Node
 - 🌱 I’m currently learning graphql
 - 💬 Ask me about Ruby and JS
 - 📫 How to reach me
