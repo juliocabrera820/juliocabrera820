@@ -1,4 +1,4 @@
-<img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Developer.gif" width="24px">
+<img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Developer.gif" width="70px">
 
 - 🔭 I’m currently working on Ruby On Rails:gem: and Node
 - 🌱 I’m currently learning graphql
