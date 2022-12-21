@@ -1,8 +1,8 @@
 <img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Developer.gif" width="70px">
 
 - 🔭 I’m currently working on Ruby On Rails:gem: and Node
-- 🌱 I’m currently learning graphql
-- 💬 Ask me about Ruby and JS
+- 🌱 I’m currently learning Elixir and Go
+- 💬 Ask me about Ruby
 - 📫 How to reach me
 
 <br>
