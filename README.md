@@ -11,8 +11,9 @@
 <img src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Point_Down.gif" width="25px">
 
 <br>
-  <a href="www.linkedin.com/in/julio-cabrera-820">
-    <img align="left" alt="Julio Cabrera | Linkedin" width="24px" src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Linkedin.svg" />
+
+  <a href="https://www.linkedin.com/in/julio-cabrera-820">
+    <img align="left" alt="Julio Cabrera | Linkedin" width="26px" src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/arielcabrera_11">
     <img align="left" alt="Ariel Cabrera | Twitter" width="26px" src="https://github.com/juliocabrera820/juliocabrera820/blob/master/Assets/Twitter.svg" />
